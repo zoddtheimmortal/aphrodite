@@ -1,6 +1,6 @@
 # Aphrodite
 
-Healthcare Management System
+Healthcare Management System using Smart Contracts
 
 Try running some of the following tasks:
 
